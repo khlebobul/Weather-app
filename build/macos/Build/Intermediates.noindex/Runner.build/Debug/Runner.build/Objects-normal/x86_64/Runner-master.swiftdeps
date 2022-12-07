@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "8f697e16194248b06d70e1d603fdac14a36cf8cb27fe0cb5fcbba6067bbd7c53"
+build_start_time: [1670397880, 46702861]
+build_end_time: [1670397923, 791799068]
+inputs:
+  "/Users/glebshalimov/Code/weather-app/macos/Flutter/GeneratedPluginRegistrant.swift": [1670397841, 602418899]
+  "/Users/glebshalimov/Code/weather-app/macos/Runner/AppDelegate.swift": [1663131258, 0]
+  "/Users/glebshalimov/Code/weather-app/macos/Runner/MainFlutterWindow.swift": [1663131258, 0]
