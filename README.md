@@ -1,16 +1,10 @@
-# weather
+# Weather app
 
-A new Flutter project.
+The program works correctly, but getting images from the site has a problem. At the moment OpenWeatherMap requires a paid version, so I used another person's key
 
-## Getting Started
+## Example
 
-This project is a starting point for a Flutter application.
+![Screen Recording 2022-12-07 at 15 43 34](https://user-images.githubusercontent.com/77191581/206183019-ad41e124-39bf-4d94-8ae2-16a08c2d10e5.gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
